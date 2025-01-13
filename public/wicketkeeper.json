@@ -1,0 +1,79 @@
+{
+  "wicketkeeper_a": [
+    {
+      "id": 1,
+      "name": "Monirul",
+      "photo": "WK_A_1",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Tanvir",
+      "photo": "WK_A_2",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "wicketkeeper_b": [
+    {
+      "id": 1,
+      "name": "Hasan Ali",
+      "photo": "WK_B_1",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Merin",
+      "photo": "WK_B_2",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Robiul",
+      "photo": "WK_B_3",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Dipu",
+      "photo": "WK_B_4",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "wicketkeeper_c": [
+    {
+      "id": 1,
+      "name": "Dipak",
+      "photo": "WK_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Sheikh Abdullah",
+      "photo": "WK_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Emon",
+      "photo": "WK_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ]
+}

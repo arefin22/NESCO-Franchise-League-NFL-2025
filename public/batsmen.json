@@ -1,0 +1,608 @@
+{
+  "batsmen_a": [
+    {
+      "id": 1,
+      "name": "Prakash",
+      "photo": "BAT_A_1",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Nahin",
+      "photo": "BAT_A_2",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Rahim",
+      "photo": "BAT_A_3",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Tareque",
+      "photo": "BAT_A_4",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Bishal",
+      "photo": "BAT_A_5",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Sazzad",
+      "photo": "BAT_A_6",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Belal",
+      "photo": "BAT_A_7",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Mahbub",
+      "photo": "BAT_A_8",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Harun",
+      "photo": "BAT_A_9",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Shakir",
+      "photo": "BAT_A_10",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Monir",
+      "photo": "BAT_A_11",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Hasibul",
+      "photo": "BAT_A_12",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Faisal Sheikh",
+      "photo": "BAT_A_13",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Mizan Sohel",
+      "photo": "BAT_A_14",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Prosenjit",
+      "photo": "BAT_A_15",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    }
+  ],
+
+  "batsmen_b": [
+    {
+      "id": 1,
+      "name": "Rajib Hasan",
+      "photo": "BAT_B_1",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Mehedi Hasan",
+      "photo": "BAT_B_2",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Kiron",
+      "photo": "BAT_B_3",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Mursalin",
+      "photo": "BAT_B_4",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Mostafizur",
+      "photo": "BAT_B_5",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Fattahuzzaman",
+      "photo": "BAT_B_6",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Mostafizur Rahman",
+      "photo": "BAT_B_7",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Anisur Rahman",
+      "photo": "BAT_B_8",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Masum Sikder",
+      "photo": "BAT_B_9",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Rocky Das",
+      "photo": "BAT_B_10",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Yeakub",
+      "photo": "BAT_B_11",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Rajib MLSS",
+      "photo": "BAT_B_12",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Aurangajeb",
+      "photo": "BAT_B_13",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Rony Alam",
+      "photo": "BAT_B_14",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Rakibul Islam",
+      "photo": "BAT_B_15",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 16,
+      "name": "Sagor Robi Das",
+      "photo": "BAT_B_16",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 17,
+      "name": "Mobarak",
+      "photo": "BAT_B_17",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 18,
+      "name": "Shariful Islam",
+      "photo": "BAT_B_18",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 19,
+      "name": "Sazzad Hossain",
+      "photo": "BAT_B_19",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 20,
+      "name": "Jashim Uddin",
+      "photo": "BAT_B_20",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 21,
+      "name": "Jadab",
+      "photo": "BAT_B_21",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 22,
+      "name": "Tapas",
+      "photo": "BAT_B_22",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 23,
+      "name": "Monirul Islam Laltu",
+      "photo": "BAT_B_23",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 24,
+      "name": "Ahsan Habib",
+      "photo": "BAT_B_24",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 25,
+      "name": "Ferdous Zaman",
+      "photo": "BAT_B_25",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 26,
+      "name": "Ratul",
+      "photo": "BAT_B_26",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 27,
+      "name": "Mahbub Sheikh",
+      "photo": "BAT_B_27",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 28,
+      "name": "Saddam",
+      "photo": "BAT_B_28",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    }
+  ],
+
+  "batsmen_c": [
+    {
+      "id": 1,
+      "name": "Fazlur Rahman",
+      "photo": "BAT_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Abdul Momin",
+      "photo": "BAT_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Masudur",
+      "photo": "BAT_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Sajib Kumar Ghosh",
+      "photo": "BAT_C_4",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Mehedi Hasan Sajib",
+      "photo": "BAT_C_5",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Enamul Haque",
+      "photo": "BAT_C_6",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Imran",
+      "photo": "BAT_C_7",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Jahid Sheikh",
+      "photo": "BAT_C_8",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Mainul Islam",
+      "photo": "BAT_C_9",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Nayan Islam",
+      "photo": "BAT_C_10",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Shee Suvash",
+      "photo": "BAT_C_11",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Imtiaz",
+      "photo": "BAT_C_12",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Ripon",
+      "photo": "BAT_C_13",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Faruque",
+      "photo": "BAT_C_14",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Abdullah Al Mamun",
+      "photo": "BAT_C_15",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 16,
+      "name": "Imran Khan",
+      "photo": "BAT_C_16",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 17,
+      "name": "Md Ali Hasan Nayan",
+      "photo": "BAT_C_17",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 18,
+      "name": "Mozammel",
+      "photo": "BAT_C_18",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 19,
+      "name": "Zobayer",
+      "photo": "BAT_C_19",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 20,
+      "name": "Bappa Kumar",
+      "photo": "BAT_C_20",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 21,
+      "name": "Bipul",
+      "photo": "BAT_C_21",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 22,
+      "name": "Alamgir",
+      "photo": "BAT_C_22",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 23,
+      "name": "Dipu",
+      "photo": "BAT_C_23",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 24,
+      "name": "Jaidur",
+      "photo": "BAT_C_24",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 25,
+      "name": "Obaidul",
+      "photo": "BAT_C_25",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 26,
+      "name": "Hasan",
+      "photo": "BAT_C_26",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 27,
+      "name": "Abul Hasnat",
+      "photo": "BAT_C_27",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 28,
+      "name": "Amirul",
+      "photo": "BAT_C_28",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 29,
+      "name": "Alamgir",
+      "photo": "BAT_C_29",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 30,
+      "name": "Tarikul",
+      "photo": "BAT_C_30",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 31,
+      "name": "Masud",
+      "photo": "BAT_C_31",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 32,
+      "name": "Nandan Roy",
+      "photo": "BAT_C_32",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    },
+    {
+      "id": 33,
+      "name": "Potu Chandra",
+      "photo": "BAT_C_33",
+      "designation": "",
+      "office": "",
+      "speciality": "Batsman",
+      "basePrice": "500000"
+    }
+  ]
+}

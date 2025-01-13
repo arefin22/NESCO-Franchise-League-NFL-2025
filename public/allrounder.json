@@ -1,0 +1,334 @@
+{
+  "allrounder_a": [
+    {
+      "id": 1,
+      "name": "Kafu",
+      "photo": "ALL_A_1",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Jahid Khan",
+      "photo": "ALL_A_2",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Atikuzzaman",
+      "photo": "ALL_A_3",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Atik Faisal",
+      "photo": "ALL_A_4",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Mahmud Rony",
+      "photo": "ALL_A_5",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Sojol",
+      "photo": "ALL_A_6",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Siraj",
+      "photo": "ALL_A_7",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Asif",
+      "photo": "ALL_A_8",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Mostofa",
+      "photo": "ALL_A_9",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Golam Morshed",
+      "photo": "ALL_A_10",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Gulzar",
+      "photo": "ALL_A_11",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Doctor",
+      "photo": "ALL_A_12",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Ashikur Rahman",
+      "photo": "ALL_A_13",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "allrounder_b": [
+    {
+      "id": 1,
+      "name": "Hridoy",
+      "photo": "ALL_B_1",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Muhin",
+      "photo": "ALL_B_2",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Jewel",
+      "photo": "ALL_B_3",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Bikash",
+      "photo": "ALL_B_4",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Sabbir",
+      "photo": "ALL_B_5",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Abid",
+      "photo": "ALL_B_6",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Hafizur",
+      "photo": "ALL_B_7",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Ashik Iqbal",
+      "photo": "ALL_B_8",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Mizhazul",
+      "photo": "ALL_B_9",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 10,
+      "name": "Shihab",
+      "photo": "ALL_B_10",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 11,
+      "name": "Abu Sayeed",
+      "photo": "ALL_B_11",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 12,
+      "name": "Gazi",
+      "photo": "ALL_B_12",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 13,
+      "name": "Kabira Das",
+      "photo": "ALL_B_13",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 14,
+      "name": "Abu Sayem",
+      "photo": "ALL_B_14",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 15,
+      "name": "Dipu Devnath",
+      "photo": "ALL_B_15",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 16,
+      "name": "Mahfuz",
+      "photo": "ALL_B_16",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 17,
+      "name": "Ruhul Amin",
+      "photo": "ALL_B_17",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 18,
+      "name": "Sanowar",
+      "photo": "ALL_B_18",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 19,
+      "name": "Rasel",
+      "photo": "ALL_B_19",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 20,
+      "name": "Raihan Kabir",
+      "photo": "ALL_B_20",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 21,
+      "name": "Rabiul",
+      "photo": "ALL_B_21",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 22,
+      "name": "Bishal Babu",
+      "photo": "ALL_B_22",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 23,
+      "name": "Ataur Rahman",
+      "photo": "ALL_B_23",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ],
+
+  "allrounder_c": [
+    {
+      "id": 1,
+      "name": "Mohaimiul",
+      "photo": "ALL_C_1",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 2,
+      "name": "Salman",
+      "photo": "ALL_C_2",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 3,
+      "name": "Ruhul Amin",
+      "photo": "ALL_C_3",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 4,
+      "name": "Sabuz Aktar",
+      "photo": "ALL_C_4",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 5,
+      "name": "Sabbir Sarker",
+      "photo": "ALL_C_5",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 6,
+      "name": "Shafiq",
+      "photo": "ALL_C_6",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 7,
+      "name": "Shawon Rahman",
+      "photo": "ALL_C_7",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    },
+    {
+      "id": 8,
+      "name": "Raihan Kabir",
+      "photo": "ALL_C_8",
+      "designation": "",
+      "office": "",
+      "speciality": "All",
+      "basePrice": "500000"
+    }
+  ]
+}
